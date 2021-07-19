@@ -2,7 +2,7 @@
 
 # The tasks completed by submission 1 
 
-# <<GWP 31 S2 (1).ipynb >> File
+# <<gwp31.ipynb >> File
 
 "Context: On October 30th, 2019, the US Federal Reserve voted to reduce the benchmark interest rate 25 basis points.  Assume you are a Portfolio Manager of a Gold ETF, and then assume you are a Portfolio Manager of an Equity ETF."	Pts	45.0		Version: June 2021																		
 "Steps 1 through 8 must be done using Python in a Jupyter notebook or R knitted file. See the ""Submission Checklist"" tab for more details."																						
